@@ -11,6 +11,7 @@
 		981F57422A30CA4F009951BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981F57412A30CA4F009951BF /* ContentView.swift */; };
 		981F57442A30CA51009951BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 981F57432A30CA51009951BF /* Assets.xcassets */; };
 		981F57472A30CA51009951BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 981F57462A30CA51009951BF /* Preview Assets.xcassets */; };
+		98A14D9C2A49C82C00E1BED8 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A14D9B2A49C82C00E1BED8 /* Offer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		981F57412A30CA4F009951BF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		981F57432A30CA51009951BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		981F57462A30CA51009951BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98A14D9B2A49C82C00E1BED8 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				981F573F2A30CA4F009951BF /* Lynn_Latt_CafeApp.swift */,
 				981F57412A30CA4F009951BF /* ContentView.swift */,
+				98A14D9B2A49C82C00E1BED8 /* Offer.swift */,
 				981F57432A30CA51009951BF /* Assets.xcassets */,
 				981F57452A30CA51009951BF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98A14D9C2A49C82C00E1BED8 /* Offer.swift in Sources */,
 				981F57422A30CA4F009951BF /* ContentView.swift in Sources */,
 				981F57402A30CA4F009951BF /* Lynn_Latt_CafeApp.swift in Sources */,
 			);
