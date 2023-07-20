@@ -13,7 +13,13 @@ import SwiftUI
 struct ContentView: View {
    @State var name = ""
     var body: some View {
-       EmptyView()
+        TabView{
+            Text("Home Page")
+                .tabItem{Image(systemName: "Info"); Text("Hello")}
+            offersPage()
+            Text("Order Page")
+            Text("Info Page")
+        }
     }
        
 }
